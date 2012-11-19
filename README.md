@@ -8,8 +8,7 @@ by using the clipboard.
 Usage
 -----
 
-Examples
-~~~~~~~~
+### Examples
 
 To share a couple of files with someone:
 
@@ -69,8 +68,7 @@ Common ways of getting image data into the clipboard are:
 Implementation
 --------------
 
-Strategy
-~~~~~~~~
+### Strategy
 
 * Use the clipboard as a staging area for uploading to a web server. After the
   upload, replace the contents in the clipboard with links to the uploaded data.
